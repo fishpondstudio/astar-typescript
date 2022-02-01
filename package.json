@@ -25,9 +25,7 @@
     "build": "tsc",
     "run-example": "cd example && yarn install && yarn run dev"
   },
-  "dependencies": {
-    "lodash": "4.17.21"
-  },
+  "dependencies": {},
   "devDependencies": {
     "typescript": "4.1.3"
   },
